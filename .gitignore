@@ -1,0 +1,13 @@
+creds.py
+/plugins
+/logs
+/etl_container
+/downloaded_files
+/dags
+/csv_dfs
+/.vscode
+/.ipynb_checkpoints
+__pycache__/
+parse_json.py
+test_notebook.ipynb
+.DS_Store
